@@ -20,6 +20,6 @@ Duplicate entries are not allowed.
 
 
 ## Sources 
-[Class Demo](https://github.com/codefellows/seattle-python-401d17/tree/main/class-19/demos/ssn)
-[Email regex](https://www.shellhacks.com/regex-find-email-addresses-file-grep/)
-[phone regex](https://stackoverflow.com/questions/16699007/regular-expression-to-match-standard-10-digit-phone-number/16702965)
+[Class Demo](https://github.com/codefellows/seattle-python-401d17/tree/main/class-19/demos/ssn) <br>
+[Email regex](https://www.shellhacks.com/regex-find-email-addresses-file-grep/) <br>
+[phone regex](https://stackoverflow.com/questions/16699007/regular-expression-to-match-standard-10-digit-phone-number/16702965) <br>

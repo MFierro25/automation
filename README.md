@@ -15,7 +15,10 @@ The information should be sorted in ascending order.
 
 Duplicate entries are not allowed.
 
-## Sources 
+## PR
 
-[Regex](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)
+
+## Sources 
 [Class Demo](https://github.com/codefellows/seattle-python-401d17/tree/main/class-19/demos/ssn)
+[Email regex](https://www.shellhacks.com/regex-find-email-addresses-file-grep/)
+[phone regex](https://stackoverflow.com/questions/16699007/regular-expression-to-match-standard-10-digit-phone-number/16702965)
